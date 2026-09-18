@@ -1,0 +1,17 @@
+IPD: 6.5cm
+DOL: 3cm
+TP: 15.5cm
+DLP: 5cm
+DOP: 8cm
+
+θ = 2 * arctg (IPD / (2 * DOP))) 
+  = 44,22 g
+
+A = 25cm / DOP = 25 / 8 cm = 3.125 cm
+DOPv = 8 / 3.125 cm = 2.56 cm 
+
+θv = 2 * arctg (IPD / (2 * DOPv)))
+   = 103,54 g
+
+X = IPD / TP
+X = 0.41935483871 
