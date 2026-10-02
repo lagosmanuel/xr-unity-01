@@ -116,6 +116,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3120408420648407967}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f9d1add69018c57a08e8416021fa9a2d, type: 3}
+  m_Script: {fileID: 11500000, guid: 280c46d6f626f8dadb550e65c7566dd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  head: {fileID: 0}
+  rotationOffset: {x: 0, y: 0, z: 0}
